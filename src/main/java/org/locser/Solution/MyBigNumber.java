@@ -17,7 +17,7 @@ public class MyBigNumber {
         int step= 0;
         boolean Remainder = false;
 
-//        LOGGER.info("Thực hiện tính tổng của " + stn1 + " + "  + stn2 + " :");
+        LOGGER.info("Thực hiện tính tổng của " + stn1 + " + "  + stn2 + " :");
         while(true) {
 
 //            bắt đầu từ giá trị cuỗi cùng của 2 chuỗi.

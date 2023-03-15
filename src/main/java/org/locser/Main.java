@@ -8,6 +8,6 @@ public class Main {
 //        new MyBigNumber().sum("399", "299");
 //        new MyBigNumber().sum("11322", "222");
         new MyBigNumber().sum("11999", "22255554");
-        System.out.println("Hello world!");
+//        System.out.println("Hello world!");
     }
 }
